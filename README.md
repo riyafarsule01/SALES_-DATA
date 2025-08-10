@@ -3,7 +3,7 @@
 
 ### **Goal** 🎯
 
-The primary goal was to transform the raw `sales_data.csv` file into a dynamic and interactive Power BI dashboard. This tool is intended to provide business stakeholders with a clear, at-a-glance understanding of sales performance, identify key trends, and enable self-service data exploration to support strategic decision-making.
+The primary goal was to transform the raw `sales_data.csv` file into a dynamic and interactive **Power BI **dashboard. This tool is intended to provide business stakeholders with a clear, at-a-glance understanding of sales performance, identify key trends, and enable self-service data exploration to support strategic decision-making.
 
 ---
 
